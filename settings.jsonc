@@ -10,8 +10,8 @@
   "icon_theme": "Material Icon Theme",
   "assistant": {
     "default_model": {
-      "provider": "google",
-      "model": "gemini-1.5-flash"
+      "provider": "copilot_chat",
+      "model": "o3-mini"
     },
     "version": "2"
   },
@@ -33,7 +33,7 @@
   },
   "theme": {
     "mode": "system",
-    "light": "Andromeda",
+    "light": "Github Dark",
     "dark": "Ayu Dark"
   },
   "preferred_line_length": 120,
@@ -48,7 +48,7 @@
     }
   },
   "features": {
-    "inline_completion_provider": "copilot"
+    "edit_prediction_provider": "copilot"
   },
   "inlay_hints": {
     "enabled": true
