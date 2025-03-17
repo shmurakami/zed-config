@@ -19,7 +19,7 @@
   "base_keymap": "JetBrains",
   "ui_font_size": 15,
   "buffer_font_family": "Monaco",
-  "buffer_font_size": 13,
+  "buffer_font_size": 13.0,
   "confirm_quit": true,
   "tab_bar": {
     "show_nav_history_buttons": false
